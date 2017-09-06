@@ -35,9 +35,9 @@ $s$          |sample standard deviation
 
 ### Calculating the mean
 
-$$
+\[
 \text{Population mean: } \\ \mu = \frac{\Sigma x}{N}\\
-$$
+\]
 
 $$
 \text{Sample mean: } \\ \bar{x} = \frac{\Sigma x}{n}\\
